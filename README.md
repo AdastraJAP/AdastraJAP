@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AdastraJAP
-- 👀 I’m interested in 
+- 👋 Hi, I’m @AdastraJAP 
 - 🌱 I’m currently learning Web development  
 - 😄 Pronouns: he
 - ⚡ Fun fact: 😆
